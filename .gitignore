@@ -1,0 +1,6 @@
+# Git ignore file for lab assignment 4
+
+figures/
+*.pem
+*.R
+Lab_assignment_4.pdf
