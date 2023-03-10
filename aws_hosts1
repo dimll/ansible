@@ -1,6 +1,6 @@
 [aws]
-ec2-34-207-189-27.compute-1.amazonaws.com
 ec2-35-153-226-24.compute-1.amazonaws.com
+ec2-54-237-102-2.compute-1.amazonaws.com
 
 [aws:vars]
 ansible_ssh_user=ubuntu
